@@ -103,7 +103,6 @@ The project's funding through a public crowdsale reflects its community-driven a
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ethereum-icon-purple.svg/1200px-Ethereum-icon-purple.svg.png" alt="Ethereum Logo" width="25"/>Ethereum Official Roadmap. [ethereum.org](https://ethereum.org/en/roadmap/)
 - [![Wikipedia Logo](https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Wikipedia-logo-v2.svg/25px-Wikipedia-logo-v2.svg.png)](https://www.wikipedia.org/)
 Wikipedia entry on Ethereum. [Wikipedia](https://en.wikipedia.org/wiki/Ethereum)
-- [![Google Logo](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png){width=100px height=25px}](https://www.google.com/)
-Google Search Engine for additional research and reference. [Google](https://www.google.com)
+- Google Search Engine for additional research and reference. [Google](https://www.google.com)
 
 Created by: Alexandr Climenco for Fintech Bootcamp Mod-1 Challenge, March 2024.
