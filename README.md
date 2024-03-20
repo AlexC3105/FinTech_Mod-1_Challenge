@@ -4,7 +4,7 @@
 ## Overview and Origin
 
 ### What is the name of the company?
-- Ethereum. <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ethereum-icon-purple.svg/1200px-Ethereum-icon-purple.svg.png" alt="Ethereum Logo" width="25"/>
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ethereum-icon-purple.svg/1200px-Ethereum-icon-purple.svg.png" alt="Ethereum Logo" width="25"/>Ethereum. 
 
 ### When was the company incorporated?
 - Ethereum was proposed in late 2013, and its development was funded through a crowdsale in mid-2014. The network went live on July 30, 2015.
@@ -96,12 +96,14 @@ The project's funding through a public crowdsale reflects its community-driven a
 
 ## References
 
-- Ethereum Official Website. [ethereum.org](https://ethereum.org/en/)
-- Ethereum Official About. [ethereum.org](https://ethereum.org/en/what-is-ethereum/)
-- Ethereum Official Blog. [ethereum.org](https://blog.ethereum.org/)
-- Ethereum Official Dev Resources. [ethereum.org](https://ethereum.org/en/developers/)
-- Ethereum Official Roadmap. [ethereum.org](https://ethereum.org/en/roadmap/)
-- Wikipedia entry on Ethereum. [Wikipedia](https://en.wikipedia.org/wiki/Ethereum)
-- Google Search Engine for additional research and reference. [Google](https://www.google.com)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ethereum-icon-purple.svg/1200px-Ethereum-icon-purple.svg.png" alt="Ethereum Logo" width="25"/>Ethereum Official Website. [ethereum.org](https://ethereum.org/en/)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ethereum-icon-purple.svg/1200px-Ethereum-icon-purple.svg.png" alt="Ethereum Logo" width="25"/>Ethereum Official About. [ethereum.org](https://ethereum.org/en/what-is-ethereum/)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ethereum-icon-purple.svg/1200px-Ethereum-icon-purple.svg.png" alt="Ethereum Logo" width="25"/>Ethereum Official Blog. [ethereum.org](https://blog.ethereum.org/)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ethereum-icon-purple.svg/1200px-Ethereum-icon-purple.svg.png" alt="Ethereum Logo" width="25"/>Ethereum Official Dev Resources. [ethereum.org](https://ethereum.org/en/developers/)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ethereum-icon-purple.svg/1200px-Ethereum-icon-purple.svg.png" alt="Ethereum Logo" width="25"/>Ethereum Official Roadmap. [ethereum.org](https://ethereum.org/en/roadmap/)
+- [![Wikipedia Logo](https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Wikipedia-logo-v2.svg/120px-Wikipedia-logo-v2.svg.png)](https://www.wikipedia.org/)
+Wikipedia entry on Ethereum. [Wikipedia](https://en.wikipedia.org/wiki/Ethereum)
+- [![Google Logo](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)](https://www.google.com/)
+Google Search Engine for additional research and reference. [Google](https://www.google.com)
 
 Created by: Alexandr Climenco for Fintech Bootcamp Mod-1 Challenge, March 2024.
