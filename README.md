@@ -25,13 +25,19 @@
 ## Business Activities
 
 * What specific financial problem is the company or project trying to solve?
+* Ethereum aims to solve the problem of centralized control over financial and digital transactions. By using blockchain technology, Ethereum introduces a decentralized platform where applications can run without the need for traditional intermediaries. This decentralization can reduce fees, improve transaction transparency and security, and offer a more inclusive financial system.
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
+* Ethereum's intended customers include developers, businesses, and individuals interested in building or using decentralized applications (dApps) and smart contracts. The market size is vast and includes sectors such as finance (DeFi), art (NFTs), gaming, and supply chain management. With the global blockchain market size expected to grow significantly in the coming years, Ethereum's potential user base is expansive.
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+* Ethereum's primary offering is its support for smart contracts, which automatically execute transactions when predefined conditions are met, without the need for intermediaries. This capability, combined with the Ethereum Virtual Machine (EVM), allows for a level of programmability and flexibility unmatched by traditional blockchains. Ethereum’s first-mover advantage in this space has led to a large and active development community, contributing to its robust ecosystem of dApps.
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like StackShare to find this information.)
+* Ethereum utilizes blockchain technology, smart contracts, and the Ethereum Virtual Machine (EVM) for executing code. It is in the process of transitioning from a proof-of-work (PoW) consensus mechanism to a more energy-efficient proof-of-stake (PoS) system with Ethereum 2.0. This transition aims to address scalability and environmental concerns. Ethereum also supports the development of layer 2 scaling solutions like rollups to enhance transaction throughput and reduce costs.
 
+## Expansion for Clarity
+* This section highlights how Ethereum addresses the central issue of decentralization in the financial domain, offering a platform that significantly diverges from traditional financial systems. By enabling smart contracts and fostering a development ecosystem that supports a wide range of applications, Ethereum positions itself as a key innovator in the fintech space. The transition to Ethereum 2.0 and the implementation of layer 2 solutions illustrate Ethereum's commitment to evolving and addressing the challenges of scalability and efficiency.
 
 ## Landscape
 
