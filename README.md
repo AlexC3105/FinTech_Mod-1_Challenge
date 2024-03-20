@@ -4,7 +4,7 @@
 ## Overview and Origin
 
 ### What is the name of the company?
-- Ethereum.
+- Ethereum. <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ethereum-icon-purple.svg/1200px-Ethereum-icon-purple.svg.png" alt="Ethereum Logo" width="100"/>
 
 ### When was the company incorporated?
 - Ethereum was proposed in late 2013, and its development was funded through a crowdsale in mid-2014. The network went live on July 30, 2015.
